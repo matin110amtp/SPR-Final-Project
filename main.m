@@ -50,7 +50,7 @@ displayRankedImageList(trainNames, trainScores)  ;
 testScores = w' * testHistograms + bias ;
 
 % display the ranked list of images
-figure(2) ; clf ; set(3,'name','Ranked test images (subset)') ;
+figure(2) ; clf ; set(2,'name','Ranked test images (subset)') ;
 displayRankedImageList(testNames, testScores)  ;
 
 % print results
