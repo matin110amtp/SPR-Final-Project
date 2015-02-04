@@ -1,6 +1,6 @@
 
 % add vlfeat required paths
-setup ;
+if exist('vl_version') ~= 3, run('vlfeat-0.9.13/toolbox/vl_setup') ; end
 
 % load training data
 positive = load('data/aeroplane_train_hist.mat') ;
