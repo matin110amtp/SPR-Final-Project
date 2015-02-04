@@ -1,8 +1,9 @@
 # SPR-Final-Project
 
 the root folder must contain:
-  files: displayRankedImageList.m , main.m , trainLinearSVM.m
-  folders: data , vlfeat-0.9.13
+
+files: displayRankedImageList.m , main.m , trainLinearSVM.m
+folders: data , vlfeat-0.9.13
 
 
 download data from:
