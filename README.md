@@ -2,11 +2,10 @@
 
 the root folder must contain:
 
-\data
-\vlfeat-0.9.13
-\displayRankedImageList.m
-\main.m
-\trainLinearSVM.m
+data , vlfeat-0.9.13
+displayRankedImageList.m
+main.m
+trainLinearSVM.m
 
 
 download data from:
